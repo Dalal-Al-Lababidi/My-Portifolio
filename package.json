@@ -2,7 +2,7 @@
   "name": "react-portifolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dalal-Al-Lababidi.github.io/My-Portifolio/",
+  "homepage": "https://Dalal-Al-Lababidi.github.io/My-Portifolio",
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "@testing-library/jest-dom": "^5.17.0",
